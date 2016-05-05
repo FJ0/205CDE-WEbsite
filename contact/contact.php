@@ -4,7 +4,7 @@
 $from = 'Contact form <shenton9916@gmail.com>';
 $sendTo = 'Contact form <shenton99@hotmaill.com>';
 $subject = 'New message from contact form';
-$fields = array('name' => 'Name', 'surname' => 'Surname', 'phone' => 'Phone', 'email' => 'Email', 'message' => 'Message'); // array variable name => Text to appear in email
+$fields = array('name' => 'Name', 'surname' => 'Surname', 'phone' => 'Phone', 'email' => 'Email', 'message' => 'Message');
 $okMessage = 'Contact form succesfully submitted. Thank you for your interest in my Twitch review site!';
 $errorMessage = 'There was an error while submitting the form. Please check your inputs and try again.';
 
