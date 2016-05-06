@@ -47,7 +47,7 @@ else {
 	</head>
 	<body>
 		<h2>
-			<a href="../index.html" rel="bookmark" title="Go Back">Go back</a>
+			<meta http-equiv="refresh" content="0; URL='../index.html'" />
 		</h2>
 	</body>
 </html>

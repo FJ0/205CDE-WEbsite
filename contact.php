@@ -72,7 +72,7 @@
 								</div>
 
 								<div class="col-md-6">
-									<label for="form_phone">Phone Number *</label> <input class=
+									<label for="form_phone">Phone Number</label> <input class=
 									"form-control" id="form_phone" name="phone" placeholder=
 									"Please enter your phone" type="tel">
 								</div>
