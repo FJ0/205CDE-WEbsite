@@ -62,7 +62,7 @@
 									Name
 								</th>
 								<th>
-									Description
+									Streamers Twitch URL
 								</th>
 								<th>
 									Followers
@@ -97,7 +97,7 @@
 
 					<form action="create.php" method="post">
 						Name <input name="inputName" type="text" value=""><br>
-						Description <input name="inputDesc" type="text" value=""><br>
+						Streamers Twitch URL <input name="inputDesc" type="text" value=""><br>
 						Followers <input name="inputFollow" type="text" value=""><br>
 						Monthly Average Views <input name="inputMonthav" type="text" value=
 						""><br>
@@ -111,7 +111,7 @@
 			<aside class="top-sidebar">
 				<article>
 					<h2>
-						Did you know?
+						<a href="#" rel="bookmark" > Did you know? </a>
 					</h2>
 
 					<p>
@@ -142,7 +142,7 @@
 			<aside class="bottom-sidebar">
 				<article>
 					<h2>
-						Did you know?
+						<a href="#" rel="bookmark" > Did you know? </a>
 					</h2>
 
 					<p>
